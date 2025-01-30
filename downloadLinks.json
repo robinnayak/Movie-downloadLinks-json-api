@@ -1,81 +1,39 @@
 {
-    "downloadLinkAvailableMovies": [
-        {
-            "name": "Rifle Club",
-            "download_links": {
-                "full_resolution_link": "",
-                "medium_resolution_link": "",
-                "low_resolution_link": ""
-            },
-            "telegram_source_link": "https://t.me/moviesnowhdhub/3",
-            "terabox_source_link": "https://terabox.com/sharing/embed?surl=8Gn3Ab9sFnakcnS--pnC-g&resolution=1080&autoplay=true&mute=false",
-            "terbox_surl": "8Gn3Ab9sFnakcnS--pnC-g"
-        },
-        {
-            "name": "Back in Action",
-            "download_links": {
-                "full_resolution_link": "",
-                "medium_resolution_link": "",
-                "low_resolution_link": ""
-            },
-            "telegram_source_link": "https://t.me/moviesnowhdhub/5",
-            "terabox_source_link": "https://terabox.com/sharing/embed?surl=uVys-IVLo5SPG3r3WMr5mQ&resolution=1080&autoplay=true&mute=false",
-            "terbox_surl": "uVys-IVLo5SPG3r3WMr5mQ"
-        },
-        {
-            "name": "Kraven the Hunter",
-            "download_links": {
-                "full_resolution_link": "",
-                "medium_resolution_link": "",
-                "low_resolution_link": ""
-            },
-            "telegram_source_link": "https://t.me/moviesnowhdhub/6",
-            "terabox_source_link": "https://terabox.com/sharing/embed?surl=ArKcf3nua65myxW7v0Z3SA&resolution=1080&autoplay=true&mute=false",
-            "terbox_surl": "4HNTc_xWACLcYKuG5JUXTw"
-        },
-        {
-            "name": "Sonic the Hedgehog 3",
-            "download_links": {
-                "full_resolution_link": "",
-                "medium_resolution_link": "",
-                "low_resolution_link": ""
-            },
-            "telegram_source_link": "https://t.me/moviesnowhdhub/6",
-            "terabox_source_link": "https://terabox.com/sharing/embed?surl=CE2nctyo4sKty5vYZ4pCvw&resolution=1080&autoplay=true&mute=false",
-            "terbox_surl": "CE2nctyo4sKty5vYZ4pCvw"
-        },
-        {
-            "name": "Emergency",
-            "download_links": {
-                "full_resolution_link": "",
-                "medium_resolution_link": "",
-                "low_resolution_link": ""
-            },
-            "telegram_source_link": "https://t.me/moviesnowhdhub/8",
-            "terabox_source_link": "https://terabox.com/sharing/embed?surl=ZMTN40-K26Z9w_jQg9qwpA&resolution=1080&autoplay=true&mute=false",
-            "terbox_surl": "ZMTN40-K26Z9w_jQg9qwpA"
-        },
-        {
-            "name": "Wicked",
-            "download_links": {
-                "full_resolution_link": "",
-                "medium_resolution_link": "",
-                "low_resolution_link": ""
-            },
-            "telegram_source_link": "https://t.me/moviesnowhdhub/8",
-            "terabox_source_link": "https://terabox.com/sharing/embed?surl=dGadMsoBy7kRL99Cbs4Tww&resolution=1080&autoplay=true&mute=false",
-            "terbox_surl": "dGadMsoBy7kRL99Cbs4Tww"
-        },
-        {
-            "name": "Sky Force",
-            "download_links": {
-                "full_resolution_link": "",
-                "medium_resolution_link": "",
-                "low_resolution_link": ""
-            },
-            "telegram_source_link": "https://t.me/moviesnowhdhub/8",
-            "terabox_source_link": "https://terabox.com/sharing/embed?surl=t82od-X6FSMFlFypclluxQ&resolution=1080&autoplay=true&mute=false",
-            "terbox_surl": "t82od-X6FSMFlFypclluxQ"
-        }
-    ]
+  "movies": [
+    {
+      "name": "Rifle Club",
+      "telegram": "https://t.me/moviesnowhdhub/3",
+      "terabox": "https://terabox.com/sharing/embed?surl=8Gn3Ab9sFnakcnS--pnC-g"
+    },
+    {
+      "name": "Back in Action",
+      "telegram": "https://t.me/moviesnowhdhub/5",
+      "terabox": "https://terabox.com/sharing/embed?surl=uVys-IVLo5SPG3r3WMr5mQ"
+    },
+    {
+      "name": "Kraven the Hunter",
+      "telegram": "https://t.me/moviesnowhdhub/6",
+      "terabox": "https://terabox.com/sharing/embed?surl=ArKcf3nua65myxW7v0Z3SA"
+    },
+    {
+      "name": "Sonic the Hedgehog 3",
+      "telegram": "https://t.me/moviesnowhdhub/6",
+      "terabox": "https://terabox.com/sharing/embed?surl=CE2nctyo4sKty5vYZ4pCvw"
+    },
+    {
+      "name": "Emergency",
+      "telegram": "https://t.me/moviesnowhdhub/8",
+      "terabox": "https://terabox.com/sharing/embed?surl=ZMTN40-K26Z9w_jQg9qwpA"
+    },
+    {
+      "name": "Wicked",
+      "telegram": "https://t.me/moviesnowhdhub/8",
+      "terabox": "https://terabox.com/sharing/embed?surl=dGadMsoBy7kRL99Cbs4Tww"
+    },
+    {
+      "name": "Sky Force",
+      "telegram": "https://t.me/moviesnowhdhub/8",
+      "terabox": "https://terabox.com/sharing/embed?surl=t82od-X6FSMFlFypclluxQ"
+    }
+  ]
 }
